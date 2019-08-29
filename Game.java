@@ -14,7 +14,7 @@ public class Game extends JPanel{
 	 int car_x,car_y;   
 	    int speedX,speedY;	
 	    int nOpponent;      
-	    String imageLoc[];
+	    String imageLocl[];
 	    int lx[],ly[];  
 	    int score;      
 	    int highScore; 
